@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://financerelief-ai-76273981601.us-west1.run.app" />
 </div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/a6f2b641-b2e5-4840-9c86-5cc505c3083a
+View your app in AI Studio: https://financerelief-ai-76273981601.us-west1.run.app
 
 ## Run Locally
 
