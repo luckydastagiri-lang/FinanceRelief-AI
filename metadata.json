@@ -1,0 +1,6 @@
+{
+  "name": "FinRelief AI",
+  "description": "An intelligent, full-stack financial recovery platform designed to empower individuals burdened with severe debt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
